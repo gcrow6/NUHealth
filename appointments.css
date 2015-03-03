@@ -16,8 +16,23 @@
 	background-position: center;
 }
 
-.bottle {
-	height:180px;
+.mybtn {
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
+	background-color:white;
+	width:200px;
+	height:200px;
+	font-size: 425%;
+	font-weight: 500;
+	border-radius: 10px;
+}
+
+button {
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius: 10px;
 }
 
 .doctor {
@@ -32,26 +47,6 @@
 	font-size: 425%;
 	font-family: "Trebuchet MS";
 	font-weight: 500;
-}
-
-.label {
-	font-size:210%;
-	text-align: center;
-	display:table;
-	margin: auto;
-}
-
-.butn-tn {
-	border-width: 2px;
-	border-style: solid;
-	border-color:black;
-}
-
-button {
-	background-color:white;
-	width:200px;
-	height:200px;
-	border-radius: 10px;
 }
 
 button:active {
