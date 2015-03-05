@@ -54,7 +54,7 @@ button {
 }
 
 button:active {
-	background-color:white;
+	opacity: 0.9;
 }
 
 .marg {
