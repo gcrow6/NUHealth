@@ -87,7 +87,9 @@ button {
 }
 
 
-
+.mybtngray:active {
+	background-color: white;
+}
 
 button:active {
 	background-color: white;

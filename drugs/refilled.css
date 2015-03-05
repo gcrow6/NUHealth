@@ -86,7 +86,9 @@ button {
 }
 
 
-
+.mybtngray:active {
+	background-color: white;
+}
 
 button:active {
 	opacity: 0.9;

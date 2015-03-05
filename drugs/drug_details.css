@@ -74,6 +74,10 @@
 	border-radius: 10px;
 	display: inline-block;
 }
+.mybtngray:active {
+	background-color: white;
+}
+
 
 button {
 	background-color:white;
