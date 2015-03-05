@@ -1,0 +1,61 @@
+.navbar {
+	background-color:#4F2E8A;
+	margin:-2px -2px 0px -2px;
+}
+.navbar-default .navbar-text {
+	font-size: 450%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	color:white;
+}
+
+.container {
+	background-size: 75% 75%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+.mybtngray {
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
+	font-size: 425%;
+	font-family: "Trebuchet MS";
+	font-weight: 900;
+	background-color:lightgray;
+	width:200px;
+	height:200px;
+	border-radius: 10px;
+}
+
+.myLabel {
+	background-color:white;
+	width:200px;
+	height:100px;
+	font-size: 550%;
+	font-family: "Trebuchet MS";
+	font-weight: 900;
+	text-align: center;
+	border-color: transparent;
+}
+
+#myLabelSmall{
+	font-size: 225%;
+	height:270px;
+}
+
+button {
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius: 10px;
+}
+
+button:active {
+	opacity: 0.9;
+}
+
+.marg {
+	margin-top:300px;
+}
